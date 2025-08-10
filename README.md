@@ -8,9 +8,11 @@
 
 ##  Sobre mí
 
->Soy desarrollador full-stack autodidacta con experiencia en soporte técnico. Me gusta optimizar sistemas, restaurar hardware y aprender sobre ciberseguridad.
+Soy desarrollador full-stack autodidacta con sólida experiencia en soporte técnico y optimización de sistemas. Me apasiona restaurar hardware, mejorar el rendimiento de equipos y fortalecer la seguridad informática mediante prácticas de ciberseguridad efectivas.
 
-Disfruto documentar lo que hago para que otros puedan entenderlo y replicarlo fácilmente. Me enfoco en crear soluciones prácticas y fáciles de usar, y me encanta compartir lo que aprendo.
+Trabajo con tecnologías modernas como React, Next.js, Node.js y TailwindCSS para crear soluciones web eficientes y escalables. Además, me gusta documentar procesos técnicos de forma clara para facilitar su comprensión y replicación.
+
+>Disfruto documentar lo que hago para que otros puedan entenderlo y replicarlo fácilmente. Me enfoco en crear soluciones prácticas y fáciles de usar, y me encanta compartir lo que aprendo.
 
 ---
 
@@ -54,5 +56,5 @@ Montevideo, Uruguay
 
 
 
->Me gusta colaborar en proyectos interesantes y compartir lo que aprendo.  
-Si te interesa trabajar juntos, no dudes en contactarme. 🚀
+Me gusta colaborar en proyectos interesantes y compartir lo que aprendo. Siempre busco nuevos retos para crecer profesionalmente y aportar valor con soluciones integrales y bien pensadas. 
+>Si te interesa trabajar juntos, no dudes en contactarme. 🚀
