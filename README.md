@@ -6,9 +6,9 @@
 
 Construyo aplicaciones web y herramientas prácticas con una mirada completa: producto, código, infraestructura y seguridad.
 
-<a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="ENLACE_A_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:TU_EMAIL_PROFESIONAL"><img src="https://img.shields.io/badge/Contacto-F3F4F6?style=for-the-badge&logo=minutemailer&logoColor=111111" alt="Contacto"></a>
+<a href="https://github.com/fdLeon-dev"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="ENLACE_A_LINKEDIN"><img src="https://www.linkedin.com/in/facundodeleon/" alt="LinkedIn"></a>
+<a href="mailto:facudeleon92@gmail.com"><img src="https://img.shields.io/badge/Contacto-F3F4F6?style=for-the-badge&logo=minutemailer&logoColor=111111" alt="Contacto"></a>
 
 </div>
 
@@ -78,10 +78,10 @@ De una necesidad de negocio a una aplicación funcional, con foco en datos, expe
 </tr>
 </table>
 
-**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Docker`
+**Stack:** `Next.js` `TypeScript` `PostgreSQL`
 
 <!-- Reemplazá el enlace por el repositorio real cuando esté publicado. -->
-[Explorar el proyecto →](ENLACE_AL_REPOSITORIO)
+[Explorar el proyecto →](https://github.com/fdLeon-dev/runtime-indumentaria)
 
 ## Ciberseguridad
 
@@ -137,14 +137,8 @@ Estoy organizando proyectos públicos de e-commerce, sistemas administrativos, A
 
 **¿Hablamos de tecnología, producto o seguridad?**
 
-[GitHub](https://github.com/TU_USUARIO) · [LinkedIn](ENLACE_A_LINKEDIN) · `TU_EMAIL_PROFESIONAL`
+[GitHub](https://github.com/fdLeon-dev) · [LinkedIn](https://www.linkedin.com/in/facundodeleon/) · `facudeleon92@gmail.com`
 
 </div>
 
-<!--
-Antes de publicar:
-1. Reemplazá todos los placeholders y eliminá este bloque.
-2. Verificá que cada tecnología declarada tenga evidencia en código, proyectos o formación.
-3. Agregá demos, capturas y documentación a los repositorios que vayas a fijar.
--->
 
