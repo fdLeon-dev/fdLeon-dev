@@ -43,20 +43,51 @@ Construyo aplicaciones web y herramientas prácticas con una mirada completa: pr
 
 ### Plataforma web para una marca de indumentaria
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 Una plataforma full-stack creada para acompañar una marca real y sus operaciones diarias.
 
-**Incluye** catálogo de productos, imágenes, pedidos, autenticación, administración y gestión del negocio.
+<strong>El desafío</strong><br>
+Convertir la gestión de una marca de indumentaria en una experiencia digital clara, administrable y preparada para crecer.
 
-**Demuestra** capacidad para transformar una necesidad concreta en un producto funcional, modelar datos y conectar experiencia de usuario con lógica de negocio.
+<br><br>
 
-**Stack previsto:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Docker`
+<strong>Lo que estoy construyendo</strong>
+
+- Catálogo de productos e imágenes.
+- Pedidos y gestión del negocio.
+- Autenticación y administración.
+- Flujos conectados entre cliente y back office.
+
+</td>
+<td width="38%" valign="top">
+
+<div align="center">
+
+![Estado](https://img.shields.io/badge/Estado-En_desarrollo-6D28D9?style=for-the-badge)
+
+### Producto real
+
+De una necesidad de negocio a una aplicación funcional, con foco en datos, experiencia de usuario y mantenibilidad.
+
+</div>
+
+</td>
+</tr>
+</table>
+
+**Stack:** `Next.js` `TypeScript` `PostgreSQL` `Prisma` `Docker`
 
 <!-- Reemplazá el enlace por el repositorio real cuando esté publicado. -->
-[Ver proyecto →](ENLACE_AL_REPOSITORIO)
+[Explorar el proyecto →](ENLACE_AL_REPOSITORIO)
 
 ## Ciberseguridad
 
-Me interesa la seguridad aplicada al desarrollo y el análisis práctico de sistemas:
+Me interesa la seguridad aplicada al desarrollo y el análisis práctico de sistemas.
+
+![Web Security](https://img.shields.io/badge/Web_Security-111111?style=flat-square&logo=owasp&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-6D28D9?style=flat-square&logo=owasp&logoColor=white) ![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-B91C1C?style=flat-square&logo=kalilinux&logoColor=white)
 
 - Seguridad de aplicaciones web y principios de OWASP.
 - Auditoría, análisis de vulnerabilidades y pentesting ético en entornos autorizados.
@@ -65,16 +96,34 @@ Me interesa la seguridad aplicada al desarrollo y el análisis práctico de sist
 
 En cada aplicación busco considerar validación de entradas, autenticación y sesiones, permisos, secretos, manejo de errores y riesgos antes del despliegue.
 
+<div align="center">
+
+`Validar`  ·  `Restringir`  ·  `Auditar`  ·  `Documentar`
+
+</div>
+
 ## Ahora
 
-- Profundizando en seguridad web y metodologías de auditoría.
-- Mejorando arquitectura, testing y observabilidad en aplicaciones full-stack.
-- Automatizando tareas de desarrollo, despliegue y administración.
-- Integrando seguridad durante todo el ciclo de vida del software.
+| En foco | Próximo paso |
+|:--|:--|
+| Seguridad web y metodologías de auditoría | Más laboratorios y write-ups técnicos |
+| Arquitectura, testing y observabilidad | Aplicaciones full-stack más confiables |
+| Automatización y despliegue | Entornos reproducibles y documentados |
 
 ## Mi forma de trabajar
 
-Me importa que una solución sea útil, comprensible y sostenible. Por eso priorizo requisitos claros, código mantenible, documentación suficiente, manejo explícito de errores y aprendizaje basado en construir, probar, investigar y corregir.
+Me importa que una solución sea útil, comprensible y sostenible.
+
+<table>
+<tr>
+<td align="center" width="25%"><strong>01</strong><br>Entender el problema</td>
+<td align="center" width="25%"><strong>02</strong><br>Construir con criterio</td>
+<td align="center" width="25%"><strong>03</strong><br>Probar y revisar</td>
+<td align="center" width="25%"><strong>04</strong><br>Documentar y mejorar</td>
+</tr>
+</table>
+
+Requisitos claros, código mantenible, manejo explícito de errores y seguridad integrada desde el inicio.
 
 ## Más proyectos
 
