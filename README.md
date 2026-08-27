@@ -7,8 +7,8 @@
 Construyo aplicaciones web y herramientas prácticas con una mirada completa: producto, código, infraestructura y seguridad.
 
 <a href="https://github.com/fdLeon-dev"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="ENLACE_A_LINKEDIN"><img src="https://www.linkedin.com/in/facundodeleon/" alt="LinkedIn"></a>
-<a href="mailto:facudeleon92@gmail.com"><img src="https://img.shields.io/badge/Contacto-F3F4F6?style=for-the-badge&logo=minutemailer&logoColor=111111" alt="Contacto"></a>
+<a href="https://www.linkedin.com/in/facundodeleon/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="facudeleon92@gmail.com"><img src="https://img.shields.io/badge/Contacto-F3F4F6?style=for-the-badge&logo=minutemailer&logoColor=111111" alt="Contacto"></a>
 
 </div>
 
@@ -137,7 +137,9 @@ Estoy organizando proyectos públicos de e-commerce, sistemas administrativos, A
 
 **¿Hablamos de tecnología, producto o seguridad?**
 
-[GitHub](https://github.com/fdLeon-dev) · [LinkedIn](https://www.linkedin.com/in/facundodeleon/) · `facudeleon92@gmail.com`
+<a href="https://github.com/fdLeon-dev"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/facundodeleon/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="facudeleon92@gmail.com"><img src="https://img.shields.io/badge/Contacto-F3F4F6?style=for-the-badge&logo=minutemailer&logoColor=111111" alt="Contacto"></a>
 
 </div>
 
